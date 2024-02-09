@@ -1,0 +1,4 @@
+BV62SWK, Ford Fiesta, 2012
+RW32JEF, Vauxhall Corsa, 2018
+HJ63NBO, Volkswagen Polo, 2008
+SW56FCO, Ford Focus, 2022

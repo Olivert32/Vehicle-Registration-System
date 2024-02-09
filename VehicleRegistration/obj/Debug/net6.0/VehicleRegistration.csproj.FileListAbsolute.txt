@@ -1,0 +1,15 @@
+C:\Users\oliga\source\repos\VehicleRegistration\bin\Debug\net6.0\VehicleRegistration.exe
+C:\Users\oliga\source\repos\VehicleRegistration\bin\Debug\net6.0\VehicleRegistration.deps.json
+C:\Users\oliga\source\repos\VehicleRegistration\bin\Debug\net6.0\VehicleRegistration.runtimeconfig.json
+C:\Users\oliga\source\repos\VehicleRegistration\bin\Debug\net6.0\VehicleRegistration.dll
+C:\Users\oliga\source\repos\VehicleRegistration\bin\Debug\net6.0\VehicleRegistration.pdb
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.csproj.AssemblyReference.cache
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.AssemblyInfoInputs.cache
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.AssemblyInfo.cs
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.csproj.CoreCompileInputs.cache
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.dll
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\refint\VehicleRegistration.dll
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.pdb
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\VehicleRegistration.genruntimeconfig.cache
+C:\Users\oliga\source\repos\VehicleRegistration\obj\Debug\net6.0\ref\VehicleRegistration.dll
